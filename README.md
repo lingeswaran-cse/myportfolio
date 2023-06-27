@@ -3,14 +3,6 @@ This is a personal portfolio website built with React.js and Bootstrap, utilizin
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Features
-
-Multiple Pages (React Router): The website has multiple pages to showcase various aspects of Rahul's skills and projects.
-
-Fully Responsive: The website is fully responsive and works well on all devices.
-
-Modern Design: The website has a modern and visually appealing design.
-
 ## Available Scripts
 
 In the project directory, you can run:
